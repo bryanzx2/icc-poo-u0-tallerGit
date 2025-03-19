@@ -8,4 +8,7 @@ Bryan Orellanaa
 
 Estructura de datos
 
-g
+### ACTIVIDAD
+
+SACAR 1O EN LA PRACTICA
+
